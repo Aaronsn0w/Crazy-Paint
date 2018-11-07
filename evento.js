@@ -10,7 +10,7 @@ document.addEventListener("mouseup", soltarMouse);
 document.addEventListener("mousemove", moverMouse);
 var cuadro = document.getElementById("dibujo_tecla");
 var papel = cuadro.getContext("2d");
-var x=150, y=150;
+var x=300, y=300;
 var mose;
 
 
